@@ -3,7 +3,8 @@
 <p>👋 Hi, I’m Hrishi</p>
 <p>👀 I’m interested in Cloud computing 🚀 ☁️</p>
 <p>🌱 I’m currently learning Full Stack Development</p>
-<p>📫 How to reach me hd.darbastwar0706@gmail.com </p>
+<p>📫 How to reach me <b>**hd.darbastwar0706@gmail.com**</b> </p>
+<img src="intro.gif" alt="GIF" width="30%" align="right">
 <hr>
 <h3>Technical Skills :</h3>
 
