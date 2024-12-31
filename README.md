@@ -20,10 +20,11 @@
 
 ### Tools :
 <p align="left">
-  <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(1).png" alt="Tool 1" width="50">
+  <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(5).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(1).jpeg" alt="Tool 2" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(17).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/5ea9628bbcdfa37e0e10a5f9c06aecdd.png" alt="Tool 3" width="50">
+  <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(1).png" alt="Tool 1" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(19).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(8).jpeg" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download.png" alt="Tool 3" width="50">
@@ -32,7 +33,7 @@
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(8).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(9).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(10).png" alt="Tool 3" width="50">
-  <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(5).png" alt="Tool 3" width="50">
+  
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(11).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(5).jpeg" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(7).png" alt="Tool 3" width="50">
