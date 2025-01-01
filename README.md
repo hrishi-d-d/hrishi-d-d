@@ -36,15 +36,12 @@
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(8).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(9).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(10).png" alt="Tool 3" width="50">
-  
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(11).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(5).jpeg" alt="Tool 3" width="50">
-  <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(7).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(18).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(15).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download.jpeg" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(4).jpeg" alt="Tool 3" width="50">
-  <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(6).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(14).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(13).png" alt="Tool 3" width="50">
   <img src="https://github.com/hrishi-d-d/test/blob/main/download%20(3).png" alt="Tool 3" width="50">
